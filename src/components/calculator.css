@@ -1,0 +1,49 @@
+.form{
+    padding-top: 50px;
+}
+
+.question{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 28px !important;
+    margin-top: 20px;
+}
+.radio{
+  padding-top: 10px;
+    height: 84px;
+    width: 714px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+.radio .MuiFormControlLabel-root {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio .MuiRadioGroup-root {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+.custom-label .MuiFormControlLabel-label {
+    font-family: 'Poppins', sans-serif; 
+    font-size: 20px;                    
+    font-weight: 400;                   
+  }
+
+  .label{
+    font-size: 20px !important;
+    font-family: "Poppins" !important;
+    font-weight: 600 !important;
+  }
+
+  .checkbox-label{
+    font-size: 24px !important;
+    font-family: "Poppins", sans-serif!important;
+    font-weight: 400 !important; 
+  }

@@ -1,4 +1,4 @@
-import { Box, Breadcrumbs, Button, Typography } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import logo from "../assets/ivf-pulse-logo@2x.png";
 import "./navbar.css";
 import { Outlet } from "react-router-dom";

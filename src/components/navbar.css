@@ -43,3 +43,22 @@
     flex-direction: column;
     align-items: center;
 }
+@media (max-width:360px) {
+    .nav-container{
+        height: 80px;
+        width: 360px;
+    }
+    .logo-box{
+        height: 30px;
+        width: 130px;
+        overflow: hidden;
+        position: absolute;
+        top: 5px;
+        left: -97px
+    }
+    .logo{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+}
